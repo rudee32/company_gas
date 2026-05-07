@@ -3,12 +3,12 @@ import { motion } from "framer-motion";
 import { Shield, Truck, Award, Users, ChevronLeft, ChevronRight } from "lucide-react";
 
 const companyImages = [
-  "/image/perusahaan.png",
-  "/image/perusahaan1.jpeg",
-  "/image/perusahaan2.jpeg",
-  "/image/perusahaan3.jpeg",
-  "/image/perusahaan4.jpeg",
-  "/image/perusahaan5.jpeg",
+  "/images/perusahaan.png",
+  "/images/perusahaan1.jpeg",
+  "/images/perusahaan2.jpeg",
+  "/images/perusahaan3.jpeg",
+  "/images/perusahaan4.jpeg",
+  "/images/perusahaan5.jpeg",
 ];
 
 const features = [
